@@ -20,25 +20,9 @@
     {
       "name": "Home",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
-      "url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/webview/light/home.html",
-      "url_dark": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/webview/dark/home.html",
-      "toolbar": true
-    },
-    {
-      "name": "Aliendroid",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
-      "url": "https://aliendro.id/profile/solodroid",
-      "url_dark": "",
-      "toolbar": true
-    },
-    {
-      "name": "Codecanyon",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/codecanyon.png",
-      "url": "https://codecanyon.net/user/solodroid/portfolio",
-      "url_dark": "",
+      "icon": "https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle-thumbnail.png",
+      "url": "https://bawarezekiabadi.com/tvindonesia/tv.html",
+      "url_dark": "https://bawarezekiabadi.com/tvindonesia/tv.html",
       "toolbar": true
     },
     {
